@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RennerAppchallenge</string>
+    <string name="default_text">Default text</string>
+    <string name="male">Masculino</string>
+    <string name="female">Feminino</string>
+    <string name="offers">Ofertas</string>
+    <string name="buy">COMPRAR</string>
+    <string name="sold">Compra realizada com sucesso. Sua compra será entregue na sua casa em 5 minutos.</string>
+    <string name="color">COR</string>
+    <string name="size">TAMANHO</string>
+</resources>
